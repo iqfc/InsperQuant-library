@@ -2,7 +2,6 @@
 import os
 import pandas as pd
 
-os.chdir("E:\FACULDADE\IQFC\Dados Indicadores")
 files_ = os.listdir()
 
 if "csv" not in files_:
